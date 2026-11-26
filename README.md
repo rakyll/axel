@@ -5,6 +5,7 @@ Mosaic axolotl logo.
 | File | Description |
 |---|---|
 | `logo.svg` | Original auto-traced logo (dark palette) |
+| `logo-clean.svg` | Original dark palette, smoothed lines, thicker strokes |
 | `logo-light-clean.svg` | Lighter palette, smoothed lines, thicker strokes |
 
 ## Reproducing the line cleanup
