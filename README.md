@@ -8,6 +8,16 @@ Mosaic axolotl logo.
 | `logo-clean.svg` | Original dark palette, smoothed lines, thicker strokes |
 | `logo-light-clean.svg` | Lighter palette, smoothed lines, thicker strokes |
 
+## Previews
+
+| Size | `logo.svg` | `logo-clean.svg` | `logo-light-clean.svg` |
+|---|---|---|---|
+| 256px | <img src="logo.svg" width="256"> | <img src="logo-clean.svg" width="256"> | <img src="logo-light-clean.svg" width="256"> |
+| 128px | <img src="logo.svg" width="128"> | <img src="logo-clean.svg" width="128"> | <img src="logo-light-clean.svg" width="128"> |
+| 64px | <img src="logo.svg" width="64"> | <img src="logo-clean.svg" width="64"> | <img src="logo-light-clean.svg" width="64"> |
+| 32px | <img src="logo.svg" width="32"> | <img src="logo-clean.svg" width="32"> | <img src="logo-light-clean.svg" width="32"> |
+| 16px | <img src="logo.svg" width="16"> | <img src="logo-clean.svg" width="16"> | <img src="logo-light-clean.svg" width="16"> |
+
 ## Reproducing the line cleanup
 
 Paste this prompt into Claude Code with the SVG to clean in the working directory:
