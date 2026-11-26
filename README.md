@@ -8,7 +8,7 @@ Mosaic axolotl logo.
 | `logo-clean.svg` | Original dark palette, smoothed lines, thicker strokes |
 | `logo-light-clean.svg` | Lighter palette, smoothed lines, thicker strokes |
 | `logo-hacker.svg` | Terminal palette: black lines, dark gray body, xterm-256 tmux green accents |
-| `logo-surfer.svg` | Surfer: wave-blue body, sunset-orange gills, with a retro surfboard |
+| `logo-surfer.svg` | Surfer: warm aqua body, sunset-orange gills, golden-sand belly, with a retro surfboard |
 | `logo-clean-animated.svg` | `logo-clean.svg` with a CSS float, blink, and gold-spot shimmer |
 
 <img src="logo-clean-animated.svg" width="256">
