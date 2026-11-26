@@ -7,19 +7,20 @@ Mosaic axolotl logo.
 | `logo.svg` | Original auto-traced logo (dark palette) |
 | `logo-clean.svg` | Original dark palette, smoothed lines, thicker strokes |
 | `logo-light-clean.svg` | Lighter palette, smoothed lines, thicker strokes |
+| `logo-hacker.svg` | Terminal palette: black lines, dark gray body, xterm-256 tmux green accents |
 | `logo-clean-animated.svg` | `logo-clean.svg` with a CSS float, blink, and gold-spot shimmer |
 
 <img src="logo-clean-animated.svg" width="256">
 
 ## Previews
 
-| Size | `logo-clean.svg` | `logo-light-clean.svg` |
-|---|---|---|
-| 256px | <img src="logo-clean.svg" width="256"> | <img src="logo-light-clean.svg" width="256"> |
-| 128px | <img src="logo-clean.svg" width="128"> | <img src="logo-light-clean.svg" width="128"> |
-| 64px | <img src="logo-clean.svg" width="64"> | <img src="logo-light-clean.svg" width="64"> |
-| 32px | <img src="logo-clean.svg" width="32"> | <img src="logo-light-clean.svg" width="32"> |
-| 16px | <img src="logo-clean.svg" width="16"> | <img src="logo-light-clean.svg" width="16"> |
+| Size | `logo-clean.svg` | `logo-light-clean.svg` | `logo-hacker.svg` |
+|---|---|---|---|
+| 256px | <img src="logo-clean.svg" width="256"> | <img src="logo-light-clean.svg" width="256"> | <img src="logo-hacker.svg" width="256"> |
+| 128px | <img src="logo-clean.svg" width="128"> | <img src="logo-light-clean.svg" width="128"> | <img src="logo-hacker.svg" width="128"> |
+| 64px | <img src="logo-clean.svg" width="64"> | <img src="logo-light-clean.svg" width="64"> | <img src="logo-hacker.svg" width="64"> |
+| 32px | <img src="logo-clean.svg" width="32"> | <img src="logo-light-clean.svg" width="32"> | <img src="logo-hacker.svg" width="32"> |
+| 16px | <img src="logo-clean.svg" width="16"> | <img src="logo-light-clean.svg" width="16"> | <img src="logo-hacker.svg" width="16"> |
 
 ## Reproducing the line cleanup
 
