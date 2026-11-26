@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="55 60 913 857" width="913" height="857">
   <title>Mosaic Axolotl Logo (Animated)</title>
   <style>
-    .axel { animation: float 3.2s ease-in-out infinite; transform-origin: 512px 900px; }
-    .lids { opacity: 0; animation: blink 4.8s infinite; }
+    .axel { animation: float 3.2s ease-in-out infinite; }
+    .lids { opacity: 0; animation: blink 2.5s infinite; }
     #gold-spots { animation: shimmer 2.4s ease-in-out infinite alternate; }
     @keyframes float {
-      0%, 100% { transform: translateY(0) rotate(-1deg); }
-      50% { transform: translateY(-14px) rotate(1deg); }
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-14px); }
     }
     @keyframes blink {
-      0%, 92%, 96%, 100% { opacity: 0; }
-      93%, 95% { opacity: 1; }
+      0%, 90%, 97%, 100% { opacity: 0; }
+      91%, 96% { opacity: 1; }
     }
     @keyframes shimmer {
       from { opacity: 0.7; }
