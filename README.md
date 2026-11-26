@@ -7,6 +7,9 @@ Mosaic axolotl logo.
 | `logo.svg` | Original auto-traced logo (dark palette) |
 | `logo-clean.svg` | Original dark palette, smoothed lines, thicker strokes |
 | `logo-light-clean.svg` | Lighter palette, smoothed lines, thicker strokes |
+| `logo-clean-animated.svg` | `logo-clean.svg` with a CSS float, blink, and gold-spot shimmer |
+
+<img src="logo-clean-animated.svg" width="256">
 
 ## Previews
 
